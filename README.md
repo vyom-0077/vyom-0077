@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vyom Tiwari</h1>
-<h3 align="center">"Full-Stack Web Developer | Proficient in both Front-End and Back-End Technologies"</h3>
+<h3 align="center">"Aspiring Full-Stack Web Developer | Proficient in HTML, CSS, JavaScript, Java & MERN Stack | Final-Year B.Tech Student | Passionate About Building Scalable and User-Friendly Web Applications"</h3>
 
 - Contact No. [7007407181](7007407181)
 
